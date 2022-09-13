@@ -1,5 +1,5 @@
 - 👋 Hey, I am Dan
-- 🌱 I am competant in a range of languages, such as HTML, CSS, Jquery, Bootstrap, and some react. I’m currently learning Laravel, aswell as Shopify Liquid
+- 🌱 I am competant in a range of languages, such as HTML, CSS, Javascript, Laravel, React
 - 💞️ I’m looking to collaborate on any Front End Projects you have
 - 📫 You can reach me on LinkedIn >> https://www.linkedin.com/in/daniel-horne92/
 
